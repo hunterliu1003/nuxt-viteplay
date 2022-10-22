@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@viteplay/plugin": "^0.2.3",
+    "@viteplay/vue": "^0.2.3",
+    "nuxt": "3.0.0-rc.12"
+  }
+}
